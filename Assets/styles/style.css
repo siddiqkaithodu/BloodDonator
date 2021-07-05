@@ -1,0 +1,51 @@
+h1
+{
+    font-size: 50px;
+    font-weight:300;
+}
+body
+{
+    
+    background-color: #000000ff;
+}
+.color-main
+{
+color:#ffffffff;
+    
+}
+div
+{
+  padding-top:5px;  
+    
+}
+button:hover{
+    animation: flow 1s;
+    
+} 
+@keyframes flow
+{
+    
+    to{
+        border-radius: 10px;
+        
+    }
+    
+}
+/*nav
+{
+  background-color: #cdcdcd;  
+    
+} 
+ul 
+{  
+   // background-color: yellow; 
+   border: 2px;
+    
+} 
+li 
+{   
+    display:inline-block; 
+    padding: 2px; 
+    text-decoration: none;
+} 
+*/
