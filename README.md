@@ -1,3 +1,3 @@
 # BloodDonator
-Here we find the blood donators as free of charge 
+Here we find blood donators
 Watch me live at https://siddiqkaithodu.github.io/BloodDonator/
