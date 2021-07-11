@@ -1,3 +1,3 @@
 # BloodDonator
-Here we find blood donators
+A BloodDonating System UI for Everyone!.
 Watch me live at https://siddiqkaithodu.github.io/BloodDonator/
