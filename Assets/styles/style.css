@@ -1,3 +1,9 @@
+@font-face
+{
+    font-family:YanoneKaffeesatz;
+    src:url(lib/fonts/YanoneKaffeesatz.ttf);
+    
+}
 h1
 {
     font-size: 50px;
@@ -5,47 +11,38 @@ h1
 }
 body
 {
-    
+ 
+   /* background-color: #222831;backup */
     background-color: #000000ff;
+    color:#ffffffff;
+    font-family: YanoneKaffeesatz;
 }
-.color-main
-{
-color:#ffffffff;
-    
+
+img{
+    width:100%;
 }
 div
 {
   padding-top:5px;  
     
 }
-button:hover{
-    animation: flow 1s;
+footer
+{
     
+    padding-top:5px;
+    margin: 5px 0 0 0;
+}
+
+button:hover
+{
+animation:flow 1s;
 } 
 @keyframes flow
 {
-    
-    to{
-        border-radius: 10px;
-        
+
+    to
+    {
+        border-radius:15px;
     }
-    
+
 }
-/*nav
-{
-  background-color: #cdcdcd;  
-    
-} 
-ul 
-{  
-   // background-color: yellow; 
-   border: 2px;
-    
-} 
-li 
-{   
-    display:inline-block; 
-    padding: 2px; 
-    text-decoration: none;
-} 
-*/
